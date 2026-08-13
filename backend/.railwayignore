@@ -1,0 +1,17 @@
+__pycache__
+*.pyc
+*.pyo
+.pytest_cache
+.venv
+venv
+.env
+.env.local
+.git
+.gitignore
+.DS_Store
+*.log
+*.egg-info
+.vscode
+.idea
+uploads/*
+exports/*

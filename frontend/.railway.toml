@@ -1,0 +1,13 @@
+[build]
+builder = "dockerfile"
+dockerfile = "Dockerfile"
+
+[deploy]
+healthcheckPath = "/"
+healthcheckInterval = 30
+healthcheckTimeout = 5
+restartPolicy = "always"
+numReplicas = 1
+
+[env]
+VITE_API_URL = "https://contract-clause-optimizer.onrender.com"
