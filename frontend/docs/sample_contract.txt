@@ -1,0 +1,88 @@
+SOFTWARE DEVELOPMENT AND SERVICES AGREEMENT
+
+This Software Development and Services Agreement (the "Agreement") is entered into as of January 15, 2025 (the "Effective Date") by and between:
+
+TechCorp Solutions Inc., a Delaware corporation with its principal place of business at 123 Innovation Drive, San Francisco, CA 94105 ("Client"), and
+
+DevPro Agency LLC, a California limited liability company with its principal place of business at 456 Developer Lane, Austin, TX 78701 ("Vendor").
+
+WHEREAS, Client desires to engage Vendor to provide software development services, and Vendor desires to provide such services to Client, on the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements set forth herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+1. SERVICES AND PAYMENT
+
+1.1 Services. Vendor shall provide software development services as described in Exhibit A attached hereto (the "Services"). Vendor shall commence the Services on February 1, 2025, and shall complete all deliverables by December 31, 2025, unless otherwise agreed in writing by both parties.
+
+1.2 Payment Terms. Client shall pay Vendor a monthly retainer of Twenty-Five Thousand Dollars ($25,000) per month, due and payable within fifteen (15) days of the invoice date. In the event that any payment is not received by Vendor within thirty (30) days of the invoice date, Client shall pay interest on the overdue amount at the rate of two percent (2%) per month, compounded monthly, until paid in full. All payments shall be made in United States dollars by wire transfer or ACH to the bank account designated by Vendor.
+
+1.3 Additional Services. Any services requested by Client beyond the scope of Exhibit A shall be subject to a separate written agreement or change order, signed by authorized representatives of both parties, detailing the scope of work, timeline, and additional fees.
+
+2. TERM AND TERMINATION
+
+2.1 Term. This Agreement shall commence on the Effective Date and shall continue for an initial term of twelve (12) months (the "Initial Term"). Upon expiration of the Initial Term, this Agreement shall automatically renew for successive one-year periods (each a "Renewal Term") unless either party provides written notice of non-renewal to the other party at least ninety (90) days prior to the expiration of the then-current term.
+
+2.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within thirty (30) days after receiving written notice of such breach.
+
+2.3 Termination for Convenience. Client may terminate this Agreement for convenience upon ninety (90) days' prior written notice to Vendor. In the event of such termination, Client shall pay Vendor for all Services rendered through the effective date of termination, plus a termination fee equal to three (3) months of the monthly retainer.
+
+3. CONFIDENTIALITY AND NON-DISCLOSURE
+
+3.1 Confidential Information. Each party acknowledges that it may receive or have access to information that is proprietary or confidential to the other party ("Confidential Information"). Confidential Information includes, without limitation, trade secrets, business plans, financial information, customer lists, pricing information, technical data, software, and any other information designated as confidential by the disclosing party.
+
+3.2 Non-Disclosure Obligations. Each party agrees to: (a) keep all Confidential Information of the other party strictly confidential; (b) not disclose any Confidential Information to any third party without the prior written consent of the disclosing party; (c) use the Confidential Information solely for purposes of performing its obligations under this Agreement; and (d) protect the Confidential Information using the same degree of care it uses to protect its own confidential information, but in no event less than reasonable care.
+
+3.3 Duration. The obligations of confidentiality set forth in this Section 3 shall survive the termination or expiration of this Agreement for a period of five (5) years.
+
+4. INTELLECTUAL PROPERTY
+
+4.1 Work Product. All work product, inventions, software, documentation, and deliverables created by Vendor specifically for Client under this Agreement (collectively, "Work Product") shall be considered works made for hire. To the extent any Work Product is not deemed a work made for hire, Vendor hereby assigns to Client all right, title, and interest in and to such Work Product, including all intellectual property rights therein.
+
+4.2 Pre-Existing IP. Notwithstanding the foregoing, Vendor retains all right, title, and interest in and to any intellectual property owned by Vendor prior to the Effective Date or developed independently by Vendor without using Client's resources or Confidential Information ("Pre-Existing IP"). Vendor grants Client a non-exclusive, non-transferable, royalty-free license to use any Pre-Existing IP incorporated into the Work Product solely for Client's internal business purposes.
+
+4.3 Non-Compete. During the term of this Agreement and for a period of two (2) years following its termination, Vendor agrees not to develop, market, or provide any software product or service that directly competes with Client's core products as described in Exhibit B attached hereto, within the territories identified in Exhibit C.
+
+5. LIMITATION OF LIABILITY AND INDEMNIFICATION
+
+5.1 Limitation of Liability. IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING LOSS OF PROFITS, REVENUE, BUSINESS, OR DATA, ARISING OUT OF OR RELATED TO THIS AGREEMENT, REGARDLESS OF WHETHER SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE TOTAL AGGREGATE LIABILITY OF EITHER PARTY ARISING OUT OF OR RELATED TO THIS AGREEMENT SHALL NOT EXCEED THE TOTAL AMOUNTS PAID BY CLIENT TO VENDOR DURING THE TWELVE (12) MONTH PERIOD IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO THE CLAIM.
+
+5.2 Indemnification. Each party shall indemnify, defend, and hold harmless the other party and its officers, directors, employees, agents, and successors from and against any and all claims, damages, losses, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to: (a) any breach of this Agreement by the indemnifying party; (b) the negligence or willful misconduct of the indemnifying party; or (c) any infringement of a third party's intellectual property rights by the indemnifying party's work product.
+
+6. DISPUTE RESOLUTION AND GOVERNING LAW
+
+6.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of law principles.
+
+6.2 Arbitration. Any dispute, controversy, or claim arising out of or relating to this Agreement, or the breach, termination, or invalidity thereof, shall be finally settled by binding arbitration administered by the American Arbitration Association (AAA) in accordance with its Commercial Arbitration Rules. The arbitration shall take place in San Francisco, California, and shall be conducted in English. The arbitral award shall be final and binding and may be enforced in any court of competent jurisdiction.
+
+6.3 Injunctive Relief. Notwithstanding the foregoing, either party may seek temporary or preliminary injunctive relief from any court of competent jurisdiction to prevent irreparable harm pending arbitration.
+
+7. FORCE MAJEURE
+
+7.1 Neither party shall be liable for any failure or delay in performing its obligations under this Agreement if such failure or delay is caused by events beyond the reasonable control of such party, including but not limited to acts of God, natural disasters, pandemics, war, terrorism, government regulations, or actions of governmental authorities, labor disputes, or failures of third-party telecommunications or internet services providers ("Force Majeure Events").
+
+7.2 The affected party shall provide prompt written notice to the other party upon becoming aware of a Force Majeure Event, and shall use commercially reasonable efforts to resume performance as soon as practicable. If the Force Majeure Event continues for more than sixty (60) days, either party may terminate this Agreement upon thirty (30) days' written notice.
+
+8. NOTICE
+
+8.1 All notices, requests, demands, and other communications under this Agreement shall be in writing and shall be deemed to have been duly given when: (a) personally delivered; (b) sent by certified mail, return receipt requested, with postage prepaid; (c) sent by overnight courier; or (d) sent by email with confirmation of receipt. Notices shall be addressed to the parties at the addresses set forth in the preamble of this Agreement or such other address as may be provided in writing.
+
+9. GENERAL PROVISIONS
+
+9.1 Entire Agreement. This Agreement, including all Exhibits, constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior agreements, representations, and understandings of the parties.
+
+9.2 Amendment. This Agreement may not be amended or modified except by a written instrument signed by authorized representatives of both parties.
+
+9.3 Severability. If any provision of this Agreement is held to be invalid, illegal, or unenforceable, the remaining provisions shall remain in full force and effect.
+
+9.4 Waiver. No failure or delay by either party in exercising any right or remedy under this Agreement shall constitute a waiver of such right or remedy.
+
+9.5 Assignment. Neither party may assign this Agreement or any of its rights or obligations hereunder without the prior written consent of the other party, which consent shall not be unreasonably withheld.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+TECHCORP SOLUTIONS INC.                    DEVPRO AGENCY LLC
+
+By: _______________________               By: _______________________
+Name: Sarah Johnson                        Name: Michael Chen
+Title: Chief Executive Officer             Title: Managing Director
+Date: January 15, 2025                    Date: January 15, 2025
